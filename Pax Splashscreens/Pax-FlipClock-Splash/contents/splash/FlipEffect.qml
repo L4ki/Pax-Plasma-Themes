@@ -151,7 +151,7 @@ Item
 	Rectangle
 	{
 		color: "#088699"
-		height: 5
+		height: 2
 		anchors.verticalCenter: parent.verticalCenter
 		anchors.left: parent.left
 		anchors.right: parent.right
