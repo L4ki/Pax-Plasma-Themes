@@ -1,6 +1,11 @@
 # Pax-Plasma-Themes
 Pax Themes For Plasma Desktop
 
+"Pax-Plasma": https://www.pling.com/p/1838878
+
+"Pax-Global": https://www.pling.com/p/1838881/
+
+
 ![Screenshot_20220624_194716](https://user-images.githubusercontent.com/45247573/175967697-8723d13d-b62b-46cc-9b37-7d474b293c87.png)
 
 ![Logo-8](https://user-images.githubusercontent.com/45247573/175967765-513892bd-1f7e-4118-82ed-e0f8941d883e.png)
@@ -13,10 +18,6 @@ Pax Themes For Plasma Desktop
 
 ![Screenshot_20220624_172903](https://user-images.githubusercontent.com/45247573/175967967-c32f0ad6-45c9-4140-aeb1-eb97a8f58379.png)
 
-
-"Pax-Plasma": https://www.pling.com/p/1838878
-
-"Pax-Global": https://www.pling.com/p/1838881/
 
 Changelog: 04.07.2022.
 ------------------------
