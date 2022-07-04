@@ -13,3 +13,18 @@ Pax Themes For Plasma Desktop
 
 ![Screenshot_20220624_172903](https://user-images.githubusercontent.com/45247573/175967967-c32f0ad6-45c9-4140-aeb1-eb97a8f58379.png)
 
+
+Changelog: 04.07.2022.
+------------------------
+
+Kvantum Theme
+--------------
+
+Update Pax-Kvantum.svg
+
+Plasma Theme
+------------
+
+Update widgets: viewitem.svg, clock.svg, pager.svg
+
+Update icon: media.svg
