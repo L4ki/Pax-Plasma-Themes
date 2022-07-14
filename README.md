@@ -33,3 +33,12 @@ Plasma Theme
 Update widgets: viewitem.svg, clock.svg, pager.svg
 
 Update icon: media.svg
+
+
+Changelog: 14.07.2022.
+------------------------
+
+Plasma Theme
+-------------
+
+Update icon: update.svg
