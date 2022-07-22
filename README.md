@@ -49,4 +49,4 @@ Changelog: 22.07.2022.
 Plasma Theme
 -------------
 
-Update icon: video-card.svg.svg
+Update icon: video-card.svg
