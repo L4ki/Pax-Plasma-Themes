@@ -50,3 +50,11 @@ Plasma Theme
 -------------
 
 Update icon: video-card.svg
+
+Changelog: 29.07.2022.
+------------------------
+
+Plasma Theme
+-------------
+
+Update widget: line.svg
