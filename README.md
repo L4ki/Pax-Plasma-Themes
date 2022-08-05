@@ -58,3 +58,12 @@ Plasma Theme
 -------------
 
 Update widget: line.svg
+
+Changelog: 05.08.2022.
+------------------------
+
+Plasma Theme
+-------------
+
+Update icon: TeamViewer.svg
+
