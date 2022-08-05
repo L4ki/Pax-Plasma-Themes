@@ -67,3 +67,8 @@ Plasma Theme
 
 Update icon: TeamViewer.svg
 
+Kvantum Theme
+-------------
+
+Update: Pax-Kvantum.svg
+
