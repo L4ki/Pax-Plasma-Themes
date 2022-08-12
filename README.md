@@ -72,3 +72,11 @@ Kvantum Theme
 
 Update: Pax-Kvantum.svg
 
+Changelog: 12.08.2022.
+------------------------
+
+Plasma Theme
+-------------
+
+Added widget: listitem.svg
+
