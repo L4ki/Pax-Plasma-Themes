@@ -80,3 +80,11 @@ Plasma Theme
 
 Added widget: listitem.svg
 
+
+Changelog: 19.08.2022.
+------------------------
+
+Plasma Theme
+-------------
+
+Update widget: clock.svg
