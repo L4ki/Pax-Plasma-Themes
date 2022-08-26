@@ -88,3 +88,12 @@ Plasma Theme
 -------------
 
 Update widget: clock.svg
+
+
+Changelog: 26.08.2022.
+------------------------
+
+Plasma Theme
+-------------
+
+Update icon: software.svg
