@@ -97,3 +97,13 @@ Plasma Theme
 -------------
 
 Update icon: software.svg
+
+
+Changelog: 02.09.2022.
+------------------------
+
+Plasma Theme
+-------------
+
+Added new icons: configure.svg, distribute.svg
+
