@@ -107,3 +107,11 @@ Plasma Theme
 
 Added new icons: configure.svg, distribute.svg
 
+Changelog: 09.09.2022.
+------------------------
+
+Plasma Theme
+-------------
+
+Update widget: tasks.svg
+
