@@ -3,7 +3,7 @@
 
 <svg
    sodipodi:docname="tasks.svg"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    version="1.1"
    id="svg3557"
    height="500"
@@ -27,9 +27,9 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1173056"
-     inkscape:cx="489.57062"
-     inkscape:cy="244.33781"
+     inkscape:zoom="0.79005437"
+     inkscape:cx="491.10544"
+     inkscape:cy="360.1018"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -44,7 +44,7 @@
      inkscape:pagecheckerboard="0"
      inkscape:lockguides="false"
      showguides="true"
-     inkscape:showpageshadow="false"
+     inkscape:showpageshadow="true"
      inkscape:deskcolor="#cdcdcd">
     <inkscape:grid
        snapvisiblegridlinesonly="true"
