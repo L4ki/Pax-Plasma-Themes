@@ -123,3 +123,16 @@ Plasma Theme
 
 Update widget: background.svg
 
+Changelog: 23.09.2022.
+------------------------
+
+Plasma Theme
+-------------
+
+Added new icons: juk.svg, qbittorrent
+
+GTK Theme
+---------
+
+Update: assets, gtk.css
+
