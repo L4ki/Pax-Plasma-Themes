@@ -136,3 +136,11 @@ GTK Theme
 
 Update: assets, gtk.css
 
+Changelog: 30.09.2022.
+------------------------
+
+Plasma Theme
+-------------
+
+Added new icons: kgpg.svg, dropbox.svg
+
