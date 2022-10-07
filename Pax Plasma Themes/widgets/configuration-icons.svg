@@ -5,7 +5,7 @@
    viewBox="0 0 32.808331 13.758333"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="configuration-icons.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -41,17 +41,17 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="55.596271"
-     inkscape:cy="26.870058"
+     inkscape:zoom="4"
+     inkscape:cx="57.75"
+     inkscape:cy="29"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:showpageshadow="false"
+     inkscape:showpageshadow="true"
      borderlayer="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-height="1002"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -62,13 +62,8 @@
      showguides="false"
      inkscape:lockguides="false"
      inkscape:document-rotation="0"
-     inkscape:pagecheckerboard="0">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4160"
-       empspacing="2"
-       originx="0.52916665"
-       originy="-33.866711" />
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#cccccc">
     <sodipodi:guide
        position="2.4294816e-09,13.758295"
        orientation="16.000015,0"
@@ -89,6 +84,9 @@
        orientation="0,-16"
        id="guide4142"
        inkscape:locked="false" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid337" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
