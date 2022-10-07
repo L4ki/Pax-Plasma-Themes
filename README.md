@@ -150,5 +150,5 @@ Changelog: 07.10.2022.
 Plasma Theme
 -------------
 
-Added new icons: configuration-icons.svg
+Update widget: configuration-icons.svg
 
