@@ -152,3 +152,11 @@ Plasma Theme
 
 Update widget: configuration-icons.svg
 
+Changelog: 14.10.2022.
+------------------------
+
+Plasma Theme
+-------------
+
+Added new icons: kdf.svg, kleopatra.svg
+
