@@ -160,7 +160,7 @@ Plasma Theme
 
 Added new icons: kdf.svg, kleopatra.svg
 
-Changelog: 14.10.2022.
+Changelog: 21.10.2022.
 ------------------------
 
 Plasma Theme
