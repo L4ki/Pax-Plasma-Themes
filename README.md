@@ -177,3 +177,9 @@ Plasma Theme
 
 Update widget: button.svg
 
+GTK-Theme
+--------
+
+Update assets icons
+
+
