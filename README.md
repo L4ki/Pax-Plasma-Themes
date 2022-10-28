@@ -168,3 +168,12 @@ Plasma Theme
 
 Update widget: scrollbar.svg
 
+
+Changelog: 28.10.2022.
+------------------------
+
+Plasma Theme
+-------------
+
+Update widget: button.svg
+
