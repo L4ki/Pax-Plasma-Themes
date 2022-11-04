@@ -183,3 +183,12 @@ GTK-Theme
 Update assets icons
 
 
+Changelog: 04.11.2022.
+------------------------
+
+Plasma Theme
+-------------
+
+Added icon: tools.svg
+
+
