@@ -191,4 +191,13 @@ Plasma Theme
 
 Added icon: tools.svg
 
+Changelog: 11.11.2022.
+------------------------
+
+Plasma Theme
+-------------
+
+Added icon: nulloy.svg
+
+
 
