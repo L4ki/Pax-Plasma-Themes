@@ -199,5 +199,13 @@ Plasma Theme
 
 Added icon: nulloy.svg
 
+Changelog: 18.11.2022.
+------------------------
+
+Plasma Theme
+-------------
+
+Added icons: knotes.svg. face.svg
+
 
 
