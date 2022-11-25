@@ -207,5 +207,18 @@ Plasma Theme
 
 Added icons: knotes.svg. face.svg
 
+Changelog: 25.11.2022.
+------------------------
+
+Plasma Theme
+-------------
+
+Added icons: go.svg. kup.svg
+
+GTK Theme
+---------
+
+Update:  checkbox-mixed-insensitive.png
+
 
 
