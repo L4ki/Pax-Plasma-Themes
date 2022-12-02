@@ -220,5 +220,13 @@ GTK Theme
 
 Update:  checkbox-mixed-insensitive.png
 
+Changelog: 02.12.2022.
+------------------------
+
+Plasma Theme
+-------------
+
+Added icon: mellowplayer.svg
+
 
 
