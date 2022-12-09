@@ -228,5 +228,18 @@ Plasma Theme
 
 Added icon: mellowplayer.svg
 
+Changelog: 09.12.2022.
+------------------------
+
+Plasma Theme
+-------------
+
+Added icons:office.svg. jami.svg
+
+GTK Theme
+---------
+
+Update: menubar-item-active.png
+
 
 
