@@ -234,7 +234,7 @@ Changelog: 09.12.2022.
 Plasma Theme
 -------------
 
-Added icons:office.svg. jami.svg
+Added icons: office.svg. jami.svg
 
 GTK Theme
 ---------
