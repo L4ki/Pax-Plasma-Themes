@@ -241,5 +241,13 @@ GTK Theme
 
 Update: menubar-item-active.png
 
+Changelog: 16.12.2022.
+------------------------
+
+Plasma Theme
+-------------
+
+Added icons: cadence.svg
+
 
 
