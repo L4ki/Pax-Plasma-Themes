@@ -257,5 +257,10 @@ Plasma Theme
 
 Added icon: sirikali.svg
 
+GTK Theme
+---------
+
+Update: gtk-2.0 gtkrc
+
 
 
