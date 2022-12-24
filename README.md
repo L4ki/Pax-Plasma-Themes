@@ -247,7 +247,15 @@ Changelog: 16.12.2022.
 Plasma Theme
 -------------
 
-Added icons: cadence.svg
+Added icon: cadence.svg
+
+Changelog: 24.12.2022.
+------------------------
+
+Plasma Theme
+-------------
+
+Added icon: sirikali.svg
 
 
 
