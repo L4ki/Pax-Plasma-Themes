@@ -1,9 +1,36 @@
 # Pax-Plasma-Themes
 Pax Themes For Plasma Desktop
 
-"Pax-Plasma": https://www.pling.com/p/1838878
+Download:
+-----------
 
-"Pax-Global": https://www.pling.com/p/1838881/
+"Pax-Plasma"
+------------
+
+https://www.pling.com/p/1838878
+
+"Pax-Global"
+------------
+
+https://www.pling.com/p/1838881/
+
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+  </head>
+  <body>
+    <h2>Donate</h2>
+    <h2>If you like my project, you can donate at:</h2>
+    <a href="https://www.paypal.com/paypalme/VesnaLazic">
+    <img src="PayPal.png" alt="PayPal" />
+    </a>
+  </body>
+</html>
+
+
+Screenshots
+------------
 
 
 ![Screenshot_20220624_194716](https://user-images.githubusercontent.com/45247573/175967697-8723d13d-b62b-46cc-9b37-7d474b293c87.png)
