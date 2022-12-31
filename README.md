@@ -289,5 +289,13 @@ GTK Theme
 
 Update: gtk-2.0 gtkrc
 
+Changelog: 31.12.2022.
+------------------------
+
+Plasma Theme
+-------------
+
+Added icons: internet.svg, yakuake.svg
+
 
 
