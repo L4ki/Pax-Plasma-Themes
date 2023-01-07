@@ -297,5 +297,12 @@ Plasma Theme
 
 Added icons: internet.svg, yakuake.svg
 
+Changelog: 07.01.2023.
+------------------------
+
+Plasma Theme
+-------------
+
+Added icon: krfb.svg
 
 
