@@ -305,4 +305,12 @@ Plasma Theme
 
 Added icon: krfb.svg
 
+Changelog: 14.01.2023.
+------------------------
+
+Plasma Theme
+-------------
+
+Added icons: plasma.svg, zoom.svg
+
 
