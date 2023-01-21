@@ -313,4 +313,12 @@ Plasma Theme
 
 Added icons: plasma.svg, zoom.svg
 
+Changelog: 21.01.2023.
+------------------------
+
+Plasma Theme
+-------------
+
+Added icons: fcitx.svg, ime.svg
+
 
