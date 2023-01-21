@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="44"
-   height="22.000029"
+   width="22"
+   height="22"
    id="svg3869"
    version="1.1"
-   viewBox="0 0 44 22.00003"
+   viewBox="0 0 22 22.000001"
    sodipodi:docname="fcitx.svg"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -25,8 +25,8 @@
      showgrid="false"
      inkscape:showpageshadow="false"
      inkscape:zoom="2.8559764"
-     inkscape:cx="-4.2017154"
-     inkscape:cy="-38.340653"
+     inkscape:cx="14.355861"
+     inkscape:cy="13.130361"
      inkscape:window-width="1920"
      inkscape:window-height="1004"
      inkscape:window-x="0"
@@ -87,7 +87,7 @@
   </defs>
   <g
      id="fcitx-bopomofo-libpinyin"
-     transform="translate(-132.12702,-67.500031)"
+     transform="translate(-109.99999,-44.000031)"
      style="fill:#cccccc">
     <rect
        y="0"
@@ -129,7 +129,7 @@
   </g>
   <g
      id="fcitx-pinyin"
-     transform="translate(-198.12702,-89.500031)">
+     transform="translate(-175.99999,-66.000031)">
     <path
        id="path6"
        class="ColorScheme-Text"
@@ -145,7 +145,7 @@
   </g>
   <g
      id="fcitx-shuangpin"
-     transform="translate(-154.12702,-89.500031)">
+     transform="translate(-131.99999,-66.000031)">
     <path
        id="path6-1"
        class="ColorScheme-Text"
@@ -161,7 +161,7 @@
   </g>
   <g
      id="fcitx-wubi"
-     transform="translate(-44.127025,-89.500031)">
+     transform="translate(-22,-66.000031)">
     <path
        id="path6-6"
        class="ColorScheme-Text"
@@ -177,7 +177,7 @@
   </g>
   <g
      id="fcitx-googlepinyin"
-     transform="translate(-198.12702,-45.500023)">
+     transform="translate(-175.99999,-22.000023)">
     <path
        id="path6-12"
        class="ColorScheme-Text"
@@ -193,7 +193,7 @@
   </g>
   <g
      id="fcitx-pinyin-libpinyin"
-     transform="translate(-198.12702,-67.500023)">
+     transform="translate(-175.99999,-44.000023)">
     <path
        id="path6-4"
        class="ColorScheme-Text"
@@ -209,7 +209,7 @@
   </g>
   <g
      id="fcitx-shuangpin-libpinyin"
-     transform="translate(-154.12702,-67.500023)">
+     transform="translate(-131.99999,-44.000023)">
     <path
        id="path6-3"
        class="ColorScheme-Text"
@@ -225,7 +225,7 @@
   </g>
   <g
      id="fcitx-sunpinyin"
-     transform="translate(-176.12702,-45.500023)">
+     transform="translate(-153.99999,-22.000023)">
     <path
        id="path6-8"
        class="ColorScheme-Text"
@@ -241,7 +241,7 @@
   </g>
   <g
      id="fcitx-emoji"
-     transform="translate(-198.12702,-127.50002)">
+     transform="translate(-175.99999,-104.00002)">
     <rect
        style="fill:none;fill-opacity:1;stroke:none"
        id="rect4372"
@@ -258,7 +258,7 @@
   </g>
   <g
      id="fcitx-erbi"
-     transform="translate(-66.127025,-89.500031)">
+     transform="translate(-44,-66.000031)">
     <path
        id="rect4205"
        d="M 3,3 V 3.5 19 H 19 V 3 Z M 4,4 H 18 V 18 H 4 Z M 6,7 V 8 H 16 V 7 Z m -1,7 v 1 h 12 v -1 z"
@@ -274,7 +274,7 @@
   </g>
   <g
      id="fcitx-ziranma"
-     transform="translate(-0.127025,-89.500031)">
+     transform="translate(22,-66.000031)">
     <path
        class="ColorScheme-Text"
        style="fill:#d3dae3;fill-opacity:1;stroke:none"
@@ -290,7 +290,7 @@
   </g>
   <g
      id="fcitx-quanpin"
-     transform="translate(-176.12702,-89.500031)">
+     transform="translate(-153.99999,-66.000031)">
     <path
        class="ColorScheme-Text"
        style="fill:#d3dae3;fill-opacity:1;stroke:none"
@@ -306,7 +306,7 @@
   </g>
   <g
      id="fcitx-cangjie"
-     transform="translate(21.872975,-89.500031)">
+     transform="translate(44,-66.000031)">
     <path
        class="ColorScheme-Text"
        style="fill:#d3dae3;fill-opacity:1;stroke:none"
@@ -322,7 +322,7 @@
        y="0" />
   </g>
   <g
-     transform="translate(-22.127025,-89.500031)"
+     transform="translate(0,-66.000031)"
      id="fcitx-wbpy">
     <path
        class="ColorScheme-Text"
@@ -340,7 +340,7 @@
   </g>
   <g
      id="fcitx-quanpin-libpinyin"
-     transform="translate(-176.12702,-67.500023)">
+     transform="translate(-153.99999,-44.000023)">
     <path
        class="ColorScheme-Text"
        style="fill:#d3dae3;fill-opacity:1;stroke:none"
@@ -357,7 +357,7 @@
   </g>
   <g
      style="fill:#cccccc"
-     transform="translate(-132.12702,-89.500031)"
+     transform="translate(-109.99999,-66.000031)"
      id="fcitx-bopomofo">
     <rect
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -374,7 +374,7 @@
        id="path4214" />
   </g>
   <g
-     transform="translate(-110.12703,-89.500031)"
+     transform="translate(-88.000005,-66.000031)"
      id="fcitx-chewing">
     <path
        class="ColorScheme-Text"
@@ -392,7 +392,7 @@
   </g>
   <g
      id="fcitx-chewing-libpinyin"
-     transform="translate(-110.12703,-67.500023)">
+     transform="translate(-88.000005,-44.000023)">
     <path
        class="ColorScheme-Text"
        style="fill:#d3dae3;fill-opacity:1;stroke:none"
@@ -408,7 +408,7 @@
        style="fill:none;fill-opacity:1;stroke:none;stroke-linejoin:miter" />
   </g>
   <g
-     transform="translate(-88.127025,-89.500031)"
+     transform="translate(-66,-66.000031)"
      id="fcitx-rime">
     <path
        class="ColorScheme-Text"
@@ -425,7 +425,7 @@
        y="0" />
   </g>
   <g
-     transform="translate(-198.12702,-149.50002)"
+     transform="translate(-175.99999,-126.00002)"
      id="fcitx-unikey">
     <rect
        y="170"
@@ -443,7 +443,7 @@
   </g>
   <g
      id="fcitx-anthy"
-     transform="translate(-198.12702,-193.50002)">
+     transform="translate(-175.99999,-170.00002)">
     <rect
        style="fill:none;fill-opacity:1;stroke:none"
        id="rect4431"
@@ -458,7 +458,7 @@
        id="circle4437" />
   </g>
   <g
-     transform="translate(-176.12702,-193.50002)"
+     transform="translate(-153.99999,-170.00002)"
      id="fcitx-libkkc">
     <rect
        y="170"
@@ -476,7 +476,7 @@
   </g>
   <g
      id="fcitx-libskk"
-     transform="translate(-154.10554,-193.47854)">
+     transform="translate(-131.97851,-169.97854)">
     <rect
        style="fill:none;fill-opacity:1;stroke:none"
        id="rect4493"
@@ -493,7 +493,7 @@
   </g>
   <g
      id="fcitx-hangul"
-     transform="translate(-198.12702,-171.50002)">
+     transform="translate(-175.99999,-148.00002)">
     <rect
        style="fill:none;fill-opacity:1;stroke:none"
        id="rect4504"
@@ -510,7 +510,7 @@
   </g>
   <g
      id="fcitx-fullwidth-active"
-     transform="translate(-66.127025,-171.5)">
+     transform="translate(-44,-148)">
     <rect
        style="fill:none;fill-opacity:1;stroke:none"
        id="rect4214"
@@ -528,7 +528,7 @@
        ry="7.9999995" />
   </g>
   <g
-     transform="translate(-44.127025,-171.5)"
+     transform="translate(-22,-148)"
      id="fcitx-fullwidth-inactive">
     <rect
        y="170"
@@ -545,7 +545,7 @@
        id="ellipse4224" />
   </g>
   <g
-     transform="translate(-44.127025,-149.5)"
+     transform="translate(-22,-126)"
      id="fcitx-punc-inactive">
     <rect
        y="170"
@@ -569,7 +569,7 @@
   </g>
   <g
      id="fcitx-punc-active"
-     transform="translate(-66.127025,-149.5)">
+     transform="translate(-44,-126)">
     <path
        class="ColorScheme-Text"
        style="fill:#d3dae3;fill-opacity:1;stroke:none"
@@ -590,7 +590,7 @@
        id="path4255" />
   </g>
   <g
-     transform="translate(-66.127025,-127.5)"
+     transform="translate(-44,-104)"
      id="fcitx-chttrans-inactive">
     <rect
        y="170"
@@ -608,7 +608,7 @@
   </g>
   <g
      id="fcitx-chttrans-active"
-     transform="translate(-44.127025,-127.5)">
+     transform="translate(-22,-104)">
     <rect
        style="fill:none;fill-opacity:1;stroke:none"
        id="rect4343"
@@ -625,7 +625,7 @@
   </g>
   <g
      id="fcitx-handwriting-active"
-     transform="translate(-198.12702,-84.100023)">
+     transform="translate(-175.99999,-60.600023)">
     <path
        class="ColorScheme-Text"
        style="fill:#d3dae3;fill-opacity:1;stroke:none"
@@ -646,7 +646,7 @@
        x="198"
        y="110.00002" />
     <ellipse
-       style="fill:#00aa7f;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:miter"
+       style="fill:#088699;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:miter"
        id="path4601"
        cx="202.5"
        cy="114.50002"
@@ -655,7 +655,7 @@
   </g>
   <g
      id="fcitx-handwriting-inactive"
-     transform="translate(-176.12702,-84.100023)">
+     transform="translate(-153.99999,-60.600023)">
     <path
        class="ColorScheme-Text"
        style="fill:#d3dae3;fill-opacity:1;stroke:none"
@@ -679,7 +679,7 @@
   </g>
   <g
      id="fcitx"
-     transform="translate(-66.127025,-1.4999995)">
+     transform="translate(-44,22)">
     <rect
        y="-22"
        x="0"
@@ -695,7 +695,7 @@
   </g>
   <g
      id="fcitx-vk-inactive"
-     transform="translate(-0.127025,-23.5)">
+     transform="translate(22)">
     <path
        id="path6-4-6"
        class="ColorScheme-Text"
@@ -711,8 +711,7 @@
        style="fill:none;fill-opacity:1;stroke:none;stroke-linejoin:bevel" />
   </g>
   <g
-     id="fcitx-vk-active"
-     transform="translate(-22.127025,-23.5)">
+     id="fcitx-vk-active">
     <path
        id="path6-6-3"
        class="ColorScheme-Text"
@@ -723,7 +722,7 @@
        id="path8"
        d="m 4.5,2.0000008 a 2.4999997,2.4999855 0 0 0 -2.5,2.5 2.4999997,2.4999855 0 0 0 2.5,2.5 2.4999997,2.4999855 0 0 0 2.5,-2.5 2.4999997,2.4999855 0 0 0 -2.5,-2.5 z"
        class="ColorScheme-PositiveText"
-       style="fill:#00aa7f;fill-opacity:1;stroke:none" />
+       style="fill:#088699;fill-opacity:1;stroke:none" />
     <rect
        y="0"
        x="0"
@@ -734,7 +733,7 @@
   </g>
   <g
      id="fcitx-kbd"
-     transform="translate(-44.127025,-23.5)">
+     transform="translate(-22)">
     <rect
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="rect4209"
@@ -751,7 +750,7 @@
   </g>
   <g
      id="fcitx-remind-inactive"
-     transform="translate(22,2.8482422e-5)">
+     transform="translate(44.127025,23.500028)">
     <rect
        style="fill:none;fill-opacity:1;stroke:none;stroke-linejoin:miter"
        id="rect4483"
@@ -771,7 +770,8 @@
        sodipodi:nodetypes="ccccccccccccccccccsscc" />
   </g>
   <g
-     id="fcitx-remind-active">
+     id="fcitx-remind-active"
+     transform="translate(22.127025,23.5)">
     <g
        id="g2010">
       <rect
