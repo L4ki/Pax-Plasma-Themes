@@ -321,4 +321,12 @@ Plasma Theme
 
 Added icons: fcitx.svg, ime.svg
 
+Changelog: 28.01.2023.
+------------------------
+
+Plasma Theme
+-------------
+
+Added icons: korgac.svg, kpackagekit.svg
+
 
