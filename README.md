@@ -324,6 +324,11 @@ Added icons: fcitx.svg, ime.svg
 Changelog: 28.01.2023.
 ------------------------
 
+GTK-Theme
+---------
+
+Update icon: checkbox-checked.png
+
 Plasma Theme
 -------------
 
