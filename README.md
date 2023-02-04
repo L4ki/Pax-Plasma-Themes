@@ -335,3 +335,12 @@ Plasma Theme
 Added icons: korgac.svg, kpackagekit.svg
 
 
+Changelog: 04.02.2023.
+------------------------
+
+Plasma Theme
+-------------
+
+Added icon: ring.svg
+
+
