@@ -353,3 +353,8 @@ Added icon: process.svg
 
 Update icon: ring.svg
 
+GTK-Theme
+--------
+
+Update: checkbox-checked-insensitive.png
+
