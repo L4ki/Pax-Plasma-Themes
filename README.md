@@ -358,3 +358,11 @@ GTK-Theme
 
 Update: checkbox-checked-insensitive.png
 
+Changelog: 19.02.2023.
+------------------------
+
+Plasma Theme
+-------------
+
+Added icon: corectrl.svg
+
