@@ -366,3 +366,11 @@ Plasma Theme
 
 Added icon: corectrl.svg
 
+Changelog: 26.02.2023.
+------------------------
+
+Plasma Theme
+-------------
+
+Added icon: desktop.svg
+
