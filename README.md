@@ -374,3 +374,11 @@ Plasma Theme
 
 Added icon: desktop.svg
 
+Changelog: 05.03.2023.
+------------------------
+
+Plasma Theme
+-------------
+
+Added icon: org.rnd2.cpupower_gui.svg
+
