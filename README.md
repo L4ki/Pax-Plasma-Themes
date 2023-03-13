@@ -382,7 +382,7 @@ Plasma Theme
 
 Added icon: org.rnd2.cpupower_gui.svg
 
-Changelog: 05.03.2023.
+Changelog: 13.03.2023.
 ------------------------
 
 Plasma Theme
