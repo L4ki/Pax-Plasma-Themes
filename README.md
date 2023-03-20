@@ -390,3 +390,16 @@ Plasma Theme
 
 Added icon: lutris.svg
 
+Changelog: 20.03.2023.
+------------------------
+
+Plasma Theme
+-------------
+
+Added icon: antimicro.svg
+
+Aurorae Themes
+--------------
+
+Update: Auroraerc
+
