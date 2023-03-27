@@ -403,3 +403,17 @@ Aurorae Themes
 
 Update: Auroraerc
 
+
+Changelog: 27.03.2023.
+------------------------
+
+Plasma Theme
+-------------
+
+Added icon: kruler.svg
+
+GTK-Theme
+--------------
+
+Update: tab-vert-gap.png
+
