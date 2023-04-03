@@ -417,3 +417,11 @@ GTK-Theme
 
 Update: tab-vert-gap.png
 
+Changelog: 03.04.2023.
+------------------------
+
+Plasma Theme
+-------------
+
+Added icon: microphone.svg
+
