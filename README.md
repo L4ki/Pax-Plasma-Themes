@@ -425,3 +425,11 @@ Plasma Theme
 
 Added icon: microphone.svg
 
+Changelog: 10.04.2023.
+------------------------
+
+Plasma Theme
+-------------
+
+Added icon: list.svg
+
