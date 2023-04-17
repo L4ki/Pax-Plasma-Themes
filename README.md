@@ -433,3 +433,17 @@ Plasma Theme
 
 Added icon: list.svg
 
+Changelog: 17.04.2023.
+------------------------
+
+Plasma Theme
+-------------
+
+Update widget: viewitem.svg
+
+GTK-Theme
+--------
+
+Update: tab-horz-gap.png
+
+
