@@ -446,4 +446,17 @@ GTK-Theme
 
 Update: tab-horz-gap.png
 
+Changelog: 25.04.2023.
+------------------------
+
+Plasma Theme
+-------------
+
+Update widget: line.svg
+
+GTK-Theme
+--------
+
+Added: gtk-4.0
+
 
