@@ -459,4 +459,17 @@ GTK-Theme
 
 Added: gtk-4.0
 
+Changelog: 02.05.2023.
+------------------------
+
+Plasma Theme
+-------------
+
+Update widget: listitem.svg
+
+GTK-Theme
+--------
+
+Update: focus.png
+
 
