@@ -472,4 +472,17 @@ GTK-Theme
 
 Update: focus.png
 
+Changelog: 09.05.2023.
+------------------------
+
+Plasma Theme
+-------------
+
+Update widget: line.svg
+
+GTK-Theme
+--------
+
+Update: frame.png
+
 
