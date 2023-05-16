@@ -485,4 +485,17 @@ GTK-Theme
 
 Update: frame.png
 
+Changelog: 16.05.2023.
+------------------------
+
+Plasma Theme
+-------------
+
+Added widget: tooltip.svg (solid)
+
+GTK-Theme
+--------
+
+Update: gtk-3.0, gtk-4.0
+
 
