@@ -498,4 +498,17 @@ GTK-Theme
 
 Update: gtk-3.0, gtk-4.0
 
+Changelog: 23.05.2023.
+------------------------
+
+Plasma Theme
+-------------
+
+Added icons: krusader_root.svg, krusader_user.svg
+
+GTK-Theme
+--------
+
+Update: menubar-item-active.png
+
 
