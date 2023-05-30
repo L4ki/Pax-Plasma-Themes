@@ -512,3 +512,17 @@ GTK-Theme
 Update: menubar-item-active.png
 
 
+Changelog: 30.05.2023.
+------------------------
+
+Plasma Theme
+-------------
+
+Added icon: accessories.svg
+
+GTK-Theme
+--------
+
+Update: tab-up-active.png
+
+
