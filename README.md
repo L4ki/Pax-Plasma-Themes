@@ -525,4 +525,17 @@ GTK-Theme
 
 Update: tab-up-active.png
 
+Changelog: 06.06.2023.
+------------------------
+
+Plasma Theme
+-------------
+
+Added icon: mobile.svg
+
+GTK-Theme
+--------
+
+Update: gtkrc
+
 
