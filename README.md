@@ -538,4 +538,18 @@ GTK-Theme
 
 Update: gtkrc
 
+Changelog: 14.06.2023.
+------------------------
+
+Plasma Theme
+-------------
+
+Added icon: offline.svg
+
+GTK-Theme
+--------
+
+Update: tab-left-active.png
+
+
 
