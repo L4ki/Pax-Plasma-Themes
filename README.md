@@ -552,4 +552,23 @@ GTK-Theme
 Update: tab-left-active.png
 
 
+Changelog: 21.06.2023.
+------------------------
+
+Aurorae themes
+--------------
+
+Update: Auroraerc
+
+Plasma Theme
+-------------
+
+Update: metadata.desktop
+
+GTK-Theme
+--------
+
+Update: tab-right-active.png, tab-left-active.png
+
+
 
