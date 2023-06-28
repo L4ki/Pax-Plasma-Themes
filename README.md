@@ -570,5 +570,18 @@ GTK-Theme
 
 Update: tab-right-active.png, tab-left-active.png
 
+Changelog: 28.06.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added icon: onboard.svg
+
+GTK-Theme
+--------
+
+Update: line.png
+
 
 
