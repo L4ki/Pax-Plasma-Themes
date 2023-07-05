@@ -583,5 +583,18 @@ GTK-Theme
 
 Update: line.png
 
+Changelog: 05.07.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Update widgets: background.svg
+
+GTK-Theme
+--------
+
+Update: gtk-3.0
+
 
 
