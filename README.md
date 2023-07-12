@@ -596,5 +596,18 @@ GTK-Theme
 
 Update: gtk-3.0
 
+Changelog: 12.07.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added icon: quota.svg
+
+GTK-Theme
+--------
+
+Update: dash-symbolic.svg
+
 
 
