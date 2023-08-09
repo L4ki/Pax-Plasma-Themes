@@ -650,5 +650,19 @@ GTK-Theme
 Update: gtk-2.0
 
 
+Changelog: 09.08.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added widget: dragger.svg
+
+GTK-Theme
+--------
+
+Update: gtkrc
+
+
 
 
