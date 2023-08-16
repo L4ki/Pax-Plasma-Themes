@@ -664,5 +664,19 @@ GTK-Theme
 Update: gtkrc
 
 
+Changelog: 16.08.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added widget: frame.svg
+
+GTK-Theme
+--------
+
+Update: hacks-dark.rc
+
+
 
 
