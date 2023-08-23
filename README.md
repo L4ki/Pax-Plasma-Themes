@@ -677,6 +677,19 @@ GTK-Theme
 
 Update: hacks-dark.rc
 
+Changelog: 23.08.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added widget: picker.svg
+
+GTK-Theme
+--------
+
+Update: gtkrc
+
 
 
 
