@@ -690,6 +690,19 @@ GTK-Theme
 
 Update: gtkrc
 
+Changelog: 30.08.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added widget: media-delegate.svg
+
+GTK-Theme
+--------
+
+Update: tab-down-active.png
+
 
 
 
