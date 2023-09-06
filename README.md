@@ -703,6 +703,19 @@ GTK-Theme
 
 Update: tab-down-active.png
 
+Changelog: 0609.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added widget: switch.svg
+
+GTK-Theme
+--------
+
+Update: border.png
+
 
 
 
