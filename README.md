@@ -703,7 +703,7 @@ GTK-Theme
 
 Update: tab-down-active.png
 
-Changelog: 0609.2023.
+Changelog: 06.09.2023.
 ----------------------
 
 Plasma Theme
@@ -715,6 +715,20 @@ GTK-Theme
 --------
 
 Update: border.png
+
+Changelog: 13.09.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added: wind-arrows.svg
+
+GTK-Theme
+--------
+
+Update: frame-notebook.png
+
 
 
 
