@@ -729,6 +729,19 @@ GTK-Theme
 
 Update: frame-notebook.png
 
+Changelog: 20.09.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added: image.svg
+
+GTK-Theme
+--------
+
+Update: frame.png
+
 
 
 
