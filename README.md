@@ -742,6 +742,18 @@ GTK-Theme
 
 Update: frame.png
 
+Changelog: 27.09.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added icon: strawberry.svg
+
+GTK-Theme
+--------
+
+Update: frame-inline.png
 
 
 
