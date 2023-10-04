@@ -755,6 +755,19 @@ GTK-Theme
 
 Update: frame-inline.png
 
+Changelog: 04.10.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added icon: thunderbird.svg
+
+GTK-Theme
+--------
+
+Update: focus.png
+
 
 
 
