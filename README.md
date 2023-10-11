@@ -768,6 +768,19 @@ GTK-Theme
 
 Update: focus.png
 
+Changelog: 11.10.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added icon: transform.svg
+
+GTK-Theme
+--------
+
+Update: menu-border.png
+
 
 
 
