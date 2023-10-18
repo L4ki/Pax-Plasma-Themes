@@ -781,6 +781,19 @@ GTK-Theme
 
 Update: menu-border.png
 
+Changelog: 18.10.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added icon: veracrypt.svg
+
+GTK-Theme
+--------
+
+Update: handle.png
+
 
 
 
