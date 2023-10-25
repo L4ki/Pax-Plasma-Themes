@@ -794,6 +794,19 @@ GTK-Theme
 
 Update: handle.png
 
+Changelog: 25.10.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Update widget: panel-background.svg
+
+GTK-Theme
+--------
+
+Update: gtkrc
+
 
 
 
