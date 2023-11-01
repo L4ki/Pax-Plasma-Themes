@@ -808,5 +808,19 @@ GTK-Theme
 Update: gtkrc
 
 
+Changelog: 01.11.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added icon: search.svg
+
+GTK-Theme
+--------
+
+Update: treeview-separator-ltr.png
+
+
 
 
