@@ -834,6 +834,19 @@ GTK-Theme
 
 Update: treeview-separator-rtl.png
 
+Changelog: 18.11.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Update widget: button.svg
+
+GTK-Theme
+--------
+
+Update: progressbar-vert-trough.png
+
 
 
 
