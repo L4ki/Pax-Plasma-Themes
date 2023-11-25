@@ -847,6 +847,19 @@ GTK-Theme
 
 Update: progressbar-vert-trough.png
 
+Changelog: 25.11.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Update widget: clock.svg
+
+GTK-Theme
+--------
+
+Update: progressbar-horz-trough.png
+
 
 
 
