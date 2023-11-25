@@ -2,7 +2,7 @@
 <svg
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
    width="200"
    height="200"
    sodipodi:docname="clock.svg"
@@ -19,7 +19,7 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
-     inkscape:window-height="1002"
+     inkscape:window-height="994"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -31,8 +31,8 @@
      pagecolor="#ffffff"
      id="base"
      inkscape:zoom="1.4142136"
-     inkscape:cx="173.59471"
-     inkscape:cy="174.30181"
+     inkscape:cx="173.24116"
+     inkscape:cy="174.30182"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="g4323"
@@ -43,19 +43,24 @@
      inkscape:document-rotation="0"
      inkscape:lockguides="true"
      inkscape:pagecheckerboard="0"
-     inkscape:showpageshadow="false"
-     inkscape:deskcolor="#d1d1d1">
+     inkscape:showpageshadow="true"
+     inkscape:deskcolor="#cccccc">
     <inkscape:grid
        empspacing="5"
        enabled="true"
-       visible="true"
+       visible="false"
        id="grid5592"
        type="xygrid"
        snapvisiblegridlinesonly="true"
        color="#0000ff"
        opacity="0.03921569"
        empcolor="#0000ff"
-       empopacity="0.07843137" />
+       empopacity="0.07843137"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
     <sodipodi:guide
        id="guide4454"
        position="1296.8644,-784.48024"
@@ -674,7 +679,6 @@
        style="opacity:1;fill:url(#linearGradient2981);fill-opacity:1;stroke:none"
        id="path4679"
        inkscape:href="#rect5450"
-       d="m 975.80664,550.04102 1.52344,3.21484 35.23632,26.4707 2.0469,-2.72851 -35.22268,-26.46094 z"
        transform="matrix(1.009494,0.00712075,0.00712075,1.0053405,-13.181448,-9.8864659)" />
     <path
        sodipodi:type="inkscape:offset"
@@ -683,8 +687,7 @@
        xlink:href="#path5455-2"
        style="fill:#c0c5d9;fill-opacity:1;stroke:none"
        id="path4681"
-       inkscape:href="#path5455-2"
-       d="m 1017.4629,576.21484 c -1.3094,-1.1e-4 -2.6112,0.53895 -3.5371,1.46485 -0.9259,0.92589 -1.465,2.2277 -1.4649,3.53711 -1e-4,1.30941 0.539,2.61121 1.4649,3.53711 0.9259,0.92589 2.2277,1.46495 3.5371,1.46484 1.3091,-2.9e-4 2.6096,-0.53899 3.5351,-1.46484 0.9256,-0.92586 1.465,-2.22796 1.4649,-3.53711 10e-5,-1.30916 -0.5393,-2.61126 -1.4649,-3.53711 -0.9255,-0.92586 -2.226,-1.46455 -3.5351,-1.46485 z" />
+       inkscape:href="#path5455-2" />
   </g>
   <g
      inkscape:label="#g6188"
@@ -787,7 +790,6 @@
      sodipodi:cy="100"
      sodipodi:rx="5"
      sodipodi:ry="5"
-     d="m -45,100 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
      inkscape:label="#path4580" />
   <path
      sodipodi:type="arc"
@@ -797,7 +799,6 @@
      sodipodi:cy="100"
      sodipodi:rx="45"
      sodipodi:ry="45"
-     d="m -150,100 a 45,45 0 1 1 -90,0 45,45 0 1 1 90,0 z"
      transform="matrix(1.5739209,0,0,1.5739209,111.91458,-57.39209)"
      inkscape:label="#path4584" />
   <g
