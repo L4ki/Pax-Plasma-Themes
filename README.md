@@ -860,6 +860,19 @@ GTK-Theme
 
 Update: progressbar-horz-trough.png
 
+Changelog: 02.12.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Update widget: bar_meter_horizontal.svg
+
+GTK-Theme
+--------
+
+Update: styles
+
 
 
 
