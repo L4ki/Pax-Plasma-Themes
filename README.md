@@ -879,7 +879,7 @@ Changelog: 13.12.2023.
 Plasma Theme
 -------------
 
-Update icon: telegram.svg
+Added icon: telegram.svg
 
 Aurorae Themes
 --------------
