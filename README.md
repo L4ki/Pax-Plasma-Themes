@@ -873,6 +873,19 @@ GTK-Theme
 
 Update: styles
 
+Changelog: 13.12.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Update icon: telegram.svg
+
+Aurorae Themes
+--------------
+
+Update: decoration.svg
+
 
 
 
