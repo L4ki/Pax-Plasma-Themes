@@ -887,5 +887,19 @@ Aurorae Themes
 Update: decoration.svg
 
 
+Changelog: 20.12.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Update widget: tasks.svg
+
+Aurorae Themes
+--------------
+
+Update: alldesktops.svg
+
+
 
 
