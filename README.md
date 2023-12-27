@@ -900,6 +900,13 @@ Aurorae Themes
 
 Update: alldesktops.svg
 
+Changelog: 27.12.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Update icon: transform.svg
 
 
 
