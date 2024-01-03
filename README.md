@@ -908,5 +908,18 @@ Plasma Theme
 
 Update icon: transform.svg
 
+Changelog: 03.01.2024.
+----------------------
+
+Plasma Theme
+-------------
+
+Update widget: switch.svg
+
+Aurorae Themes
+--------------
+
+Update: restore.svg
+
 
 
