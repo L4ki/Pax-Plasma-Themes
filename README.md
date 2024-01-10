@@ -921,5 +921,17 @@ Aurorae Themes
 
 Update: restore.svg
 
+Changelog: 10.01.2024.
+----------------------
+
+Plasma Theme
+-------------
+
+Update icon: widget.svg
+
+Aurorae Themes
+--------------
+
+Update: shade.svg
 
 
