@@ -934,4 +934,17 @@ Aurorae Themes
 
 Update: shade.svg
 
+Changelog: 18.01.2024.
+----------------------
+
+Plasma Theme
+-------------
+
+Update widget: tasks.svg
+
+Aurorae Themes
+--------------
+
+Update: shade.svg
+
 
