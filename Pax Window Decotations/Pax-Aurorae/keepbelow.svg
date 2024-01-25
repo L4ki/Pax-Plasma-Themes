@@ -6,7 +6,7 @@
    version="1.1"
    style="enable-background:new"
    sodipodi:docname="keepbelow.svg"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -29,8 +29,8 @@
      id="defs26" />
   <sodipodi:namedview
      inkscape:document-rotation="0"
-     pagecolor="#b2b2b2"
-     bordercolor="#666666"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -38,12 +38,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1000"
+     inkscape:window-height="994"
      id="namedview24"
-     showgrid="true"
-     inkscape:zoom="11.313709"
-     inkscape:cx="31.422056"
-     inkscape:cy="29.389124"
+     showgrid="false"
+     inkscape:zoom="8.0000004"
+     inkscape:cx="29.499999"
+     inkscape:cy="29.249999"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -53,12 +53,16 @@
      inkscape:lockguides="true"
      inkscape:pagecheckerboard="0"
      inkscape:showpageshadow="2"
-     inkscape:deskcolor="#b2b2b2">
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid853"
        originx="0"
-       originy="0" />
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="false" />
   </sodipodi:namedview>
   <style
      type="text/css"
