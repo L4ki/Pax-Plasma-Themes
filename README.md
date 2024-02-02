@@ -45,23 +45,15 @@ Screenshots
 
 ![Screenshot_20220624_172903](https://user-images.githubusercontent.com/45247573/175967967-c32f0ad6-45c9-4140-aeb1-eb97a8f58379.png)
 
+______________________________________________________________________________________________________________________________________
 
-Changelog: 25.01.2024.
+
+Changelog: 02.02.2024.
 ----------------------
-
-GTK Theme
-----------
-
-Update: gtk-4.0
 
 Plasma Theme
 -------------
 
-Added icon: solar.svg
-
-Aurorae Themes
---------------
-
-Update: keepbelow.svg
+Added icon: sogoupinyin.svg
 
 
