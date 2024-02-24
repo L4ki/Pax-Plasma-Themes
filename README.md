@@ -48,12 +48,22 @@ Screenshots
 ______________________________________________________________________________________________________________________________________
 
 
-Changelog: 02.02.2024.
+Changelog: 24.02.2024.
 ----------------------
 
 Plasma Theme
 -------------
 
-Added icon: sogoupinyin.svg
+Added icon: osd.svg
+
+Aurorae Themes
+--------------
+
+Update:  keepbelow.svg
+
+GTK Theme
+---------
+
+Update: main.rc
 
 
