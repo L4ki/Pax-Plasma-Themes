@@ -59,7 +59,7 @@ Added icon: osd.svg
 Aurorae Themes
 --------------
 
-Update:  keepbelow.svg
+Update: keepabove.svg
 
 GTK Theme
 ---------
