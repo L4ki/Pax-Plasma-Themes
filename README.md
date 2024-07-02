@@ -48,22 +48,27 @@ Screenshots
 ______________________________________________________________________________________________________________________________________
 
 
-Changelog: 25.02.2024.
+Changelog: 02.07.2024.
 ----------------------
 
 Plasma Theme
 -------------
 
-Added icon: osd.svg
+Update widget: bar_meter_horizontal.svg
 
 Aurorae Themes
 --------------
 
-Update: keepabove.svg
+Update: metadata.desktop
 
 GTK Theme
 ---------
 
-Update: main.rc
+Update: apps.rc
+
+SDDM Theme
+-----------
+
+Update: metadata.desktop
 
 
