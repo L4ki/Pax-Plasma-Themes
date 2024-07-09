@@ -54,7 +54,7 @@ Changelog: 09.07.2024.
 Plasma Theme
 -------------
 
-Update widget: vertical.svg
+Update widget: bar_meter_vertical.svg
 
 Aurorae Themes
 --------------
