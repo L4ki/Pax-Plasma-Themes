@@ -48,13 +48,13 @@ Screenshots
 ______________________________________________________________________________________________________________________________________
 
 
-Changelog: 02.07.2024.
+Changelog: 09.07.2024.
 ----------------------
 
 Plasma Theme
 -------------
 
-Update widget: bar_meter_horizontal.svg
+Update widget: vertical.svg
 
 Aurorae Themes
 --------------
@@ -64,11 +64,8 @@ Update: metadata.desktop
 GTK Theme
 ---------
 
-Update: apps.rc
+Update: hacks.rc
 
-SDDM Theme
------------
 
-Update: metadata.desktop
 
 
