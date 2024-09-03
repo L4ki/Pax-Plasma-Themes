@@ -5,7 +5,7 @@
    version="1.0"
    id="svg17"
    sodipodi:docname="toolbar.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -38,20 +38,21 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-height="1005"
      id="namedview19"
      showgrid="false"
-     inkscape:zoom="5.8553402"
-     inkscape:cx="21.091857"
-     inkscape:cy="25.788425"
+     inkscape:zoom="8.2807015"
+     inkscape:cx="14.853814"
+     inkscape:cy="45.527544"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg17"
      inkscape:document-rotation="0"
-     inkscape:showpageshadow="false"
+     inkscape:showpageshadow="true"
      inkscape:lockguides="false"
-     inkscape:pagecheckerboard="0" />
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#cccccc" />
   <defs
      id="defs3">
     <style
