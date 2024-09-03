@@ -48,13 +48,13 @@ Screenshots
 ______________________________________________________________________________________________________________________________________
 
 
-Changelog: 27.08.2024.
+Changelog: 03.09.2024.
 ----------------------
 
 Plasma Theme
 -------------
 
-Update widget: containment-controls.svg
+Update widget: toolbar.svg
 
 Aurorae Themes
 --------------
@@ -64,7 +64,7 @@ Update: metadata.desktop
 GTK Theme
 ---------
 
-Update: apps.rc
+Update: hacks.rc
 
 
 
