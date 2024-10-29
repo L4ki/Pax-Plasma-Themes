@@ -48,13 +48,13 @@ Screenshots
 ______________________________________________________________________________________________________________________________________
 
 
-Changelog: 22.10.2024.
+Changelog: 29.10.2024.
 ----------------------
 
 Plasma Theme
 -------------
 
-Update widget: actionbutton.svg
+Update widget: busywidget.svg
 
 Aurorae Themes
 --------------
@@ -64,7 +64,7 @@ Update: metadata.desktop
 GTK Theme
 ---------
 
-Update: apps.rc
+Update: hacks.rc
 
 
 
