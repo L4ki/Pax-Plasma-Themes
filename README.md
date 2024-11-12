@@ -48,13 +48,13 @@ Screenshots
 ______________________________________________________________________________________________________________________________________
 
 
-Changelog: 05.11.2024.
+Changelog: 12.11.2024.
 ----------------------
 
 Plasma Theme
 -------------
 
-Update widget: lineedit.svg
+Update widget: line.svg
 
 Aurorae Themes
 --------------
@@ -64,7 +64,7 @@ Update: metadata.desktop
 GTK Theme
 ---------
 
-Update: gtk-3.0
+Update: styles
 
 
 
