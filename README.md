@@ -64,7 +64,7 @@ Update: metadata.desktop
 GTK Theme
 ---------
 
-Update: hacks-gtkrc
+Update: gtkrc
 
 
 
