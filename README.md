@@ -48,13 +48,13 @@ Screenshots
 ______________________________________________________________________________________________________________________________________
 
 
-Changelog: 26.11.2024.
+Changelog: 03.12.2024.
 ----------------------
 
 Plasma Theme
 -------------
 
-Update widget: frame.svg
+Update widget: panel-background.svg
 
 Aurorae Themes
 --------------
@@ -64,7 +64,7 @@ Update: metadata.desktop
 GTK Theme
 ---------
 
-Update: gtkrc
+Update: gtk-4.0
 
 
 
