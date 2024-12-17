@@ -48,13 +48,13 @@ Screenshots
 ______________________________________________________________________________________________________________________________________
 
 
-Changelog: 10.12.2024.
+Changelog: 17.12.2024.
 ----------------------
 
 Plasma Theme
 -------------
 
-Update widget: tabbar.svg
+Update widget: slider.svg
 
 Aurorae Themes
 --------------
@@ -64,7 +64,7 @@ Update: metadata.desktop
 GTK Theme
 ---------
 
-Update: main.rc
+Update: apps.rc
 
 
 
