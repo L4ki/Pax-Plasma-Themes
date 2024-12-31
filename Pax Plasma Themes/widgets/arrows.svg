@@ -6,7 +6,7 @@
    height="14.000061"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    sodipodi:docname="arrows.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,13 +23,13 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="7.9999995"
-     inkscape:cx="31.562502"
-     inkscape:cy="7.7500005"
+     inkscape:cx="31.500002"
+     inkscape:cy="7.8750005"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-height="998"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -44,16 +44,22 @@
      inkscape:object-nodes="true"
      inkscape:pagecheckerboard="0"
      inkscape:lockguides="true"
-     inkscape:showpageshadow="false">
+     inkscape:showpageshadow="true"
+     inkscape:deskcolor="#cccccc">
     <inkscape:grid
-       type="xygrid"
-       id="grid3795"
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
        empspacing="5"
-       visible="true"
        enabled="true"
-       snapvisiblegridlinesonly="true"
-       originx="-17.999995"
-       originy="11.999963" />
+       visible="false" />
   </sodipodi:namedview>
   <defs
      id="defs4">
