@@ -48,13 +48,13 @@ Screenshots
 ______________________________________________________________________________________________________________________________________
 
 
-Changelog: 21.01.2025.
+Changelog: 28.01.2025.
 ----------------------
 
 Plasma Theme
 -------------
 
-Update widget: arrows.svg
+Update; metadata.desktop
 
 Aurorae Themes
 --------------
@@ -64,7 +64,7 @@ Update: metadata.desktop
 GTK Theme
 ---------
 
-Update: gtkrc
+Update: gtk-4.0
 
 
 
