@@ -48,7 +48,7 @@ Screenshots
 ______________________________________________________________________________________________________________________________________
 
 
-Changelog: 25.02.2025.
+Changelog: 04.03.2025.
 ----------------------
 
 Plasma Theme
@@ -56,15 +56,10 @@ Plasma Theme
 
 Update; metadata.desktop
 
-Aurorae Themes
---------------
-
-Update: metadata.desktop
-
 GTK Theme
 ---------
 
-Update: gtk-3.0
+Update: styles
 
 
 
