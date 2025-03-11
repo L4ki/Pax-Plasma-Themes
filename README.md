@@ -48,7 +48,7 @@ Screenshots
 ______________________________________________________________________________________________________________________________________
 
 
-Changelog: 04.03.2025.
+Changelog: 11.03.2025.
 ----------------------
 
 Plasma Theme
@@ -59,7 +59,7 @@ Update; metadata.desktop
 GTK Theme
 ---------
 
-Update: styles
+Update: hacks-dark.rc
 
 
 
