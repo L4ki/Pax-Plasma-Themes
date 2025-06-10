@@ -55,7 +55,6 @@ Plasma Theme
 -------------
 
 Update: menubaritem.svg
--------------
 
 GTK-Theme
 -----------
