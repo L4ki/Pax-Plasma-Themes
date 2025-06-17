@@ -48,15 +48,15 @@ Screenshots
 ______________________________________________________________________________________________________________________________________
 
 
-Changelog: 10.06.2025.
+Changelog: 17.06.2025.
 ----------------------
 
 Plasma Theme
 -------------
 
-Update: menubaritem.svg
+Update:metadata.desktop
 
 GTK-Theme
 -----------
 
-Update: hacks.rc
+Update: gtk-3.0
