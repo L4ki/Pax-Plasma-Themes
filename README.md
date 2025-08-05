@@ -48,15 +48,15 @@ Screenshots
 ______________________________________________________________________________________________________________________________________
 
 
-Changelog: 29.07.2025.
+Changelog: 05.08.2025.
 ----------------------
 
 Plasma Theme
 -------------
 
-Update:metadata.desktop
+Update: metadata.desktop
 
 GTK-Theme
 -----------
 
-Update: apps.rc
+Update: hacks.rc
